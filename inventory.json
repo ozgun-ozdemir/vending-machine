@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Soda",
+        "price": 1.5,
+        "stock": 10
+    },
+    {
+        "name": "Chips",
+        "price": 1.0,
+        "stock": 10
+    },
+    {
+        "name": "Candy",
+        "price": 0.75,
+        "stock": 10
+    },
+    {
+        "name": "Water",
+        "price": 1.25,
+        "stock": 10
+    },
+    {
+        "name": "Juice",
+        "price": 1.8,
+        "stock": 10
+    },
+    {
+        "name": "Gum",
+        "price": 0.5,
+        "stock": 10
+    },
+    {
+        "name": "Cookies",
+        "price": 1.2,
+        "stock": 10
+    },
+    {
+        "name": "Nuts",
+        "price": 1.4,
+        "stock": 10
+    },
+    {
+        "name": "Energy Drink",
+        "price": 2.5,
+        "stock": 10
+    }
+]
