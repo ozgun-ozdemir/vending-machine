@@ -1,4 +1,4 @@
-# vending-machine
+# Vending Machine
 
 A Python-based Vending Machine simulation app, which allows users to purchase items, manage balance, and track inventory updates. The project also logs transactions, including item purchases, balance before and after the transaction, and the remaining stock in the vending machine.
 
